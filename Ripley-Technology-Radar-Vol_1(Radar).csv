@@ -1,17 +1,16 @@
-name,ring,quadrant,isNew,status,description
-GO,Adopt,Languages&Frameworks,FALSE,no change,<p>El lenguaje de programaciÛn Go es un proyecto de cÛdigo abierto para hacer que los programadores sean m·s productivos. Go es expresivo, conciso, limpio y eficiente. Sus mecanismos de concurrencia facilitan la escritura de programas que aprovechan al m·ximo las m·quinas multin˙cleo y en red, mientras que su novedoso sistema de tipos permite la construcciÛn de programas flexible y modular. Go compila r·pidamente en cÛdigo de m·quina, pero tiene la comodidad de la recolecciÛn de basura y el poder de la reflexiÛn en tiempo de ejecuciÛn. Es un lenguaje compilado, r·pido y de tipado est·tico que se siente como un lenguaje interpretado y de tipado din·mico.</p>
+Ôªøname,ring,quadrant,isNew,status,description
+GO,Adopt,Languages&Frameworks,FALSE,no change,<p>El lenguaje de programaci√≥n Go es un proyecto de c√≥digo abierto para hacer que los programadores sean m√°s productivos. Go es expresivo, conciso, limpio y eficiente. Sus mecanismos de concurrencia facilitan la escritura de programas que aprovechan al m√°ximo las m√°quinas multin√∫cleo y en red, mientras que su novedoso sistema de tipos permite la construcci√≥n de programas flexible y modular. Go compila r√°pidamente en c√≥digo de m√°quina, pero tiene la comodidad de la recolecci√≥n de basura y el poder de la reflexi√≥n en tiempo de ejecuci√≥n. Es un lenguaje compilado, r√°pido y de tipado est√°tico que se siente como un lenguaje interpretado y de tipado din√°mico.</p>
 Python,Adopt,Languages&Frameworks,FALSE,no change,
 Node TS,Adopt,Languages&Frameworks,FALSE,no change,
-Java Quarkus,Adopt,Languages&Frameworks,FALSE,no change,
+Quarkus,Adopt,Languages&Frameworks,FALSE,no change,
 R,Adopt,Languages&Frameworks,FALSE,no change,
 Next.js,Adopt,Languages&Frameworks,FALSE,no change,
 React,Adopt,Languages&Frameworks,FALSE,no change,
 Express,Adopt,Languages&Frameworks,FALSE,no change,
 GraphQL,Hold,Languages&Frameworks,FALSE,no change,
 Storybook,Adopt,Languages&Frameworks,FALSE,no change,
-CloudEvents,Adopt,Platforms,FALSE,no change,"<p>Los eventos son mecanismos comunes en la arquitectura basada en eventos o en aplicaciones sin servidor. Sin embargo, los productores o proveedores de la nube tienden a admitirlos en diferentes formas, lo que impide la interoperabilidad entre plataformas e infraestructuras. <strong><a href=""https://cloudevents.io/"">CloudEvents</a></strong> es una especificaciÛn para describir datos de eventos en formatos comunes para proporcionar interoperabilidad entre servicios, plataformas y sistemas. Proporciona SDK en varios idiomas para que pueda integrar la especificaciÛn en su aplicaciÛn o cadena de herramientas. Nuestros equipos lo utilizan no solo para fines de plataformas de nube cruzada, sino tambiÈn para la especificaciÛn de eventos de dominio, entre otros escenarios. CloudEvents est· alojado por la <a href=""https://www.cncf.io/"">Cloud Native Computing Foundation</a> (CNCF) y ahora es un proyecto graduado. Nuestros equipos utilizan CloudEvents de manera predeterminada para crear arquitecturas basadas en eventos y, por ese motivo, lo estamos trasladando a Adopt.</p>"
-GitHub Copilot,Trial,Tools,FALSE,no change,"<p>Si bien el mercado de asistencia de codificaciÛn de IA est· cada vez m·s concurrido, <strong><a href=""https://github.com/features/copilot"">GitHub Copilot</a></strong> sigue siendo nuestra opciÛn predeterminada y muchos de nuestros equipos la utilizan. Desde la ˙ltima vez que escribimos sobre GitHub Copilot, las mejoras m·s interesantes se produjeron en la funciÛn de chat. Por ejemplo, ya no es necesario saturar el cÛdigo con comentarios como indicaciones"
-Continuous compliance,Adopt,Techniques,FALSE,no change,"<p><strong>El cumplimiento continuo</strong> es la pr·ctica de garantizar que los procesos y las tecnologÌas de desarrollo de software cumplan con las normas de seguridad y las regulaciones de la industria de manera continua, mediante el uso intensivo de la automatizaciÛn. La verificaciÛn manual de vulnerabilidades de seguridad y el cumplimiento de las regulaciones pueden ralentizar el desarrollo y generar errores. Como alternativa, las organizaciones pueden automatizar las comprobaciones y auditorÌas de cumplimiento. Pueden integrar herramientas en los procesos de desarrollo de software, lo que permite a los equipos detectar y abordar problemas de cumplimiento en las primeras etapas del proceso de desarrollo. La codificaciÛn de las reglas de cumplimiento y las mejores pr·cticas ayuda a aplicar polÌticas y est·ndares de manera uniforme en todos los equipos. Le permite escanear los cambios de cÛdigo en busca de vulnerabilidades, aplicar est·ndares de codificaciÛn y realizar un seguimiento de los cambios de configuraciÛn de la infraestructura para garantizar que cumplan con los requisitos de cumplimiento. Por ˙ltimo, la generaciÛn autom·tica de informes de lo anterior simplifica las auditorÌas y proporciona evidencia clara de cumplimiento. Ya hemos hablado de tÈcnicas como la publicaciÛn de SBOM y la aplicaciÛn de las recomendaciones de SLSA, pueden ser muy buenos puntos de partida. Los beneficios de esta tÈcnica son m˙ltiples. En primer lugar, la automatizaciÛn conduce a un software m·s seguro al identificar y mitigar las vulnerabilidades de forma temprana y, en segundo lugar, los ciclos de desarrollo se aceleran a medida que se eliminan las tareas manuales. La reducciÛn de costos y la mejora de la consistencia son ventajas adicionales. Para las industrias crÌticas para la seguridad, como los vehÌculos impulsados ??por software, el cumplimiento continuo automatizado puede mejorar la eficiencia y la confiabilidad del proceso de certificaciÛn, lo que en ˙ltima instancia conduce a vehÌculos m·s seguros y confiables en la carretera.</p>"
+GitHub Copilot,Trial,Tools,TRUE,new,"<p>Si bien el mercado de asistencia de codificaci√≥n de IA est√° cada vez m√°s concurrido, <strong><a href=""https://github.com/features/copilot"">GitHub Copilot</a></strong> sigue siendo nuestra opci√≥n predeterminada y muchos de nuestros equipos la utilizan. Desde la √∫ltima vez que escribimos sobre GitHub Copilot, las mejoras m√°s interesantes se produjeron en la funci√≥n de chat. Por ejemplo, ya no es necesario saturar el c√≥digo con comentarios como indicaciones"
+Continuous compliance,Adopt,Techniques,FALSE,no change,"<p><strong>El cumplimiento continuo</strong> es la pr√°ctica de garantizar que los procesos y las tecnolog√≠as de desarrollo de software cumplan con las normas de seguridad y las regulaciones de la industria de manera continua, mediante el uso intensivo de la automatizaci√≥n. La verificaci√≥n manual de vulnerabilidades de seguridad y el cumplimiento de las regulaciones pueden ralentizar el desarrollo y generar errores. Como alternativa, las organizaciones pueden automatizar las comprobaciones y auditor√≠as de cumplimiento. Pueden integrar herramientas en los procesos de desarrollo de software, lo que permite a los equipos detectar y abordar problemas de cumplimiento en las primeras etapas del proceso de desarrollo. La codificaci√≥n de las reglas de cumplimiento y las mejores pr√°cticas ayuda a aplicar pol√≠ticas y est√°ndares de manera uniforme en todos los equipos. Le permite escanear los cambios de c√≥digo en busca de vulnerabilidades, aplicar est√°ndares de codificaci√≥n y realizar un seguimiento de los cambios de configuraci√≥n de la infraestructura para garantizar que cumplan con los requisitos de cumplimiento. Por √∫ltimo, la generaci√≥n autom√°tica de informes de lo anterior simplifica las auditor√≠as y proporciona evidencia clara de cumplimiento. Ya hemos hablado de t√©cnicas como la publicaci√≥n de SBOM y la aplicaci√≥n de las recomendaciones de SLSA, pueden ser muy buenos puntos de partida. Los beneficios de esta t√©cnica son m√∫ltiples. En primer lugar, la automatizaci√≥n conduce a un software m√°s seguro al identificar y mitigar las vulnerabilidades de forma temprana y, en segundo lugar, los ciclos de desarrollo se aceleran a medida que se eliminan las tareas manuales. La reducci√≥n de costos y la mejora de la consistencia son ventajas adicionales. Para las industrias cr√≠ticas para la seguridad, como los veh√≠culos impulsados ??por software, el cumplimiento continuo automatizado puede mejorar la eficiencia y la confiabilidad del proceso de certificaci√≥n, lo que en √∫ltima instancia conduce a veh√≠culos m√°s seguros y confiables en la carretera.</p>"
 Jira,Adopt,Tools,FALSE,no change,
 SonarQube,Adopt,Tools,FALSE,no change,
 Swagger/OpenAPI,Adopt,Tools,FALSE,no change,
@@ -24,4 +23,34 @@ Cloud Native,Adopt,Techniques,FALSE,no change,
 DevOps,Adopt,Techniques,FALSE,no change,
 Scrum,Adopt,Techniques,FALSE,no change,
 Microservices,Adopt,Techniques,FALSE,no change,
-Figma,Adopt,Tools,FALSE,no change,<p>Figma es un editor de gr·ficos vectorial y una herramienta de generaciÛn de prototipos, principalmente basada en la web, con caracterÌsticas off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows. Las aplicaciones Figma Mirror companion para Android y iOS permiten mirar los prototipos de Figma en dispositivos mÛviles.? El conjunto de funciones de Figma, se enfoca en el uso de la interfaz de usuario y el diseÒo de experiencia de usuario, con Ènfasis en la colaboraciÛn en tiempo real.</p>
+Figma,Adopt,Tools,FALSE,no change,<p>Figma es un editor de gr√°ficos vectorial y una herramienta de generaci√≥n de prototipos, principalmente basada en la web, con caracter√≠sticas off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows. Las aplicaciones Figma Mirror companion para Android y iOS permiten mirar los prototipos de Figma en dispositivos m√≥viles.? El conjunto de funciones de Figma, se enfoca en el uso de la interfaz de usuario y el dise√±o de experiencia de usuario, con √©nfasis en la colaboraci√≥n en tiempo real.</p>
+Apigee,Adopt,Platforms,FALSE,no change,
+Cloudflare,Adopt,Platforms,FALSE,no change,
+Elasticsearch,Adopt,Platforms,FALSE,no change,
+Confluent,Adopt,Platforms,FALSE,no change,
+Bitbucket,Adopt,Tools,FALSE,no change,
+Acoustic,Adopt,Platforms,FALSE,no change,
+gRPC,Assess,Languages&Frameworks,FALSE,no change,
+REST,Adopt,Languages&Frameworks,FALSE,no change,
+Argo,Adopt,Tools,FALSE,no change,
+AsyncAPI,Assess,Tools,TRUE,new,
+Google Cloud,Adopt,Platforms,FALSE,no change,
+Amazon Web Services,Adopt,Platforms,FALSE,no change,
+Oracle,Hold,Platforms,FALSE,moved out,
+Kotlin,Hold,Languages&Frameworks,FALSE,moved out,
+Flutter,Hold,Languages&Frameworks,FALSE,moved out,
+Swift,Hold,Languages&Frameworks,FALSE,moved out,
+Confluence,Adopt,Tools,FALSE,no change,
+Microfrontends,Trial,Techniques,TRUE,moved in,
+AWS Step Functions,Assess,Platforms,FALSE,no change,
+Cloud Functions,Assess,Platforms,FALSE,no change,
+AWS Lambda,Assess,Platforms,FALSE,no change,
+Draw.io,Adopt,Tools,FALSE,no change,
+Miro,Adopt,Tools,FALSE,no change,
+Locust,Adopt,Tools,FALSE,no change,
+Selenium,Adopt,Tools,FALSE,no change,
+Appium,Adopt,Tools,FALSE,no change,
+Maze,Adopt,Tools,FALSE,no change,
+Looker,Adopt,Tools,FALSE,no change,
+AWS Database Migration Service,Trial,Platforms,FALSE,no change,
+DataLake,Adopt,Platforms,FALSE,no change,
